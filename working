@@ -9,3 +9,15 @@ arm.extend();                           // 3)
 arm.flex();                             // 3)
 //  action 3:   the arm rotates conter-clockwise
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
+
+
+
+
+
+//  1)
+//  Noun:
+//  action 1:
+
+//  action 2:
+
+//  action 3:
