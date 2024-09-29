@@ -11,7 +11,44 @@ arm.flex();                             // 3)
 arm.rotateCounterClockwise();           // 4) demonstrates camelCase
 
 
+Dog: 
+wag its tail, 
+dog.wagTail();
 
+fetch a ball
+dog.fetchBall();
+dog.barkAtStranger();
+
+Chef: 
+chop vegetables, 
+stir a pot of soup, or 
+plate a gourmet dish.
+
+Painter: A painter 
+might mix colors on a palette, 
+apply paint to a canvas, 
+or sketch a preliminary design.
+
+Teacher: A teacher might 
+explain a concept to students, 
+grade assignments, or 
+lead a class discussion.
+
+Robot: A robot might 
+assemble a product on a factory line, 
+navigate a maze, 
+perform a repetitive task.
+
+River: A river might 
+flow through a valley, 
+carve a canyon, or 
+merge with another river.
+
+
+Dancer: A dancer might 
+leap across the stage, 
+execute a pirouette, or 
+perform a graceful routine.
 
 
 //  1)
